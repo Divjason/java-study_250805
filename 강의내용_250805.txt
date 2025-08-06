@@ -1,0 +1,67 @@
+Java :
+- 프로그래밍 언어 관심
+- 객체지향 프로그래밍 언어
+- 절차지향
+- 백엔드 개발자 > python // node.js // java
+- c++ => c
+
+- 실행 프로그램
+> "이클립스" 프로그램 => IDE
+> Integrated Development Envionment
+> 통합개발환경 
+
+프로그래밍 언어
+1) Code Editor : vscode, bracket, atom...
+> extention // plugin
+
+2) IDE : 
+> "이클립스"
+> "IntlliJ" = 인텔리제이
+
+-> 냉장고 코끼리를 넣는다
+
+java-start
+javaStudy
+
+build =>
+코드 => 인텔리제이 프로그램
+class => java 실행
+
+JDK = Java Development Kit
+> 자바 프로그래밍 언어를 실행시키기 위한 도구모음
+
+1) JRE : Java Runtime Environment
+
+2) javac : .java -> .class (*compiler)
+
+3) JVM : Java Virtual Machine (*실행엔진)
+
+4) debuger, document generator
+
+SDK = Software Development Kit
+
+HelloJava
+
+변수
+연산자
+
+패키지 (package)
+variable
+
+Var1
+
+주석 : 프로그래밍 코드 전혀 영향을 주지 않은 코멘트 
+
+// 단문 주석
+/* */ 복문  주석
+
+변수 사용의 목적
+> 변수안에 담긴 값을 보다 효율적으로 관리.수정.편집하기 위한 목적
+
+선언
+할당
+재할당
+
+git remote add origin https://github.com/Divjason/java-study_250805.git
+
+https://github.com/Divjason/java-study_250805
