@@ -11,9 +11,17 @@ public class If1 {
         // 미만이라면 "미성년자" 입니다.를 출력하세요!!
 
         // if () -> if 라는 조건문은 반드시 조건식을 검증한 이후 실행!!!
-        int age = 20;
+        int age = 16;
 
-        if(age >= 18) {
+        if(age >= 24) {
+            System.out.println("성인입니다.");
+        }
+
+        if(age >= 20) {
+            System.out.println("성인입니다.");
+        }
+
+        if(age >= 19) {
             System.out.println("성인입니다.");
         }
 
