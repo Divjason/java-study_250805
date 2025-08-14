@@ -7,7 +7,7 @@ import java.nio.charset.StandardCharsets; // 한글, 특수문자 등을 정상�
 import java.nio.file.Path; // 특정 파일을 생성할 때 경로 설정
 import java.nio.file.Files; // 특정 파일을 생성후 관리할 수 있도록 해주는 클래스
 
-public class FinalEx3 {
+public class    FinalEx3 {
     public static void main(String[] args) {
         /*
         놀이공원 -> 입장료!!!
