@@ -5,9 +5,11 @@ public class ClassStart3 {
         Student student1;
 
         student1 = new Student();
+        // new 예약어 -> 클래스 -> 프로토타입 객체 -> 인스턴스 객체
         student1.name = "학생1";
         student1.age = 15;
         student1.grade = 90;
+        // 온점 표기법
 
         Student student2 = new Student();
         student2.name = "학생2";
