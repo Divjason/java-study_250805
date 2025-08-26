@@ -1,0 +1,20 @@
+MethodChange1
+
+null :
+- null 값 혹은 자료형의 정의!!!
+- null VS undefined
+- 값이 없음!!
+- null : 미정
+- undefined : 정의될 수 없는 형태 혹은 타입의 값
+
+- null "값이 없다"라는 값
+- null 형태의 값이 어떤 변수에 할당 => 변수 실행 종료
+
+- 만약 프로그래밍 언어에서 의도적으로 null 할당
+- 몇백줄, 어떤 변수안에 의도적으로 null 값을 할당
+- null 값을 할당받은 변수안에 객체를 속성 호출
+
+- NullPointerException => null을 가리키는 값을 찾아오고자 할때, 해당 값이 존재하지 않는 경우!!
+
+- GC 실행
+- Garbage Collection : 프로그래밍언어 내부에 있는 청소부
