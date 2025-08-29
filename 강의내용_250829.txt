@@ -1,0 +1,44 @@
+1.접근제어자
+- public : 모든 외부 호출을 허용한다!
+- default (*package-private) : 같은 동일 패키지 안에서의 호출까지만 허용한다!
+- protected : 같은 동일 패키지 안에서는 허용 + 단 패키지가 달라도 "상속"관계의 호출은 허용!!
+- private : 모든 외부 호출을 차단한다!
+- public >protected > default > private 
+
+1) 멤버변수
+2) 메서드함수
+3) 클래스
+
+animals
+Animal
+zoo
+
+AccessOuterMain
+PublicClass
+
+Java 프로그래밍 언어
+- JDK : Java Development Kit = JRE를 포함하고 있고, 개발자가 작성한 코드를 컴파일링해주는 컴파일러가 포함되어있다!!!
+
+- JRE : Java Runtime Environment = 자바 실행환경
+
+- JVM : Java Virtual Machine = 자바 실행환경 내부에 구성되어있는 가상 머신으로 실제 JVM이 존재해야 Java로 만들어진 .class를 읽어낼 수 있음
+
+PublicClassInnerMain
+PublicClassOuterMain
+
+*특정 멤버변수 및 메서드, 클래스에 접근 여부를 허용 및 불허용을 결정하는 접근제어자를 학습했고, 해당 접근 제어자는 결국 객체 지향 언어에서 "캡슐화"라는 기능을 지원하고 있다!!!
+
+"객체지향언어"
+-> 캡슐화 & 상속 & 다형성
+
+2.자바 메모리 구조
+1) 메서드( Method) 영역 : Class 정보를 보관
+
+2_1) 스택(Stack)자료구조 영역 : 실제 프로그램이 실행되는 영역, 메서드 내부에 Class를 실행할 때마다 스택에 하나씩 쌓여감
+
+2_2) 큐(Queue)자료구조 : 
+
+3) 힙(Heap)영역 : Class를 통해서 탄생한 인스턴스 객체가 생성되는 영역 => new 명령어를 사용하면 힙 영역이 실행된다라고 보면 됨
+
+
+
